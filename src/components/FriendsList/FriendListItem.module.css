@@ -1,0 +1,27 @@
+.status {
+  display: block;
+
+  margin-right: 15px;
+
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
+
+.online {
+  background-color: green;
+}
+
+.offline {
+  background-color: red;
+}
+
+.avatar {
+  margin-right: 15px;
+}
+
+.name {
+  font-weight: 700;
+
+  color: black;
+}

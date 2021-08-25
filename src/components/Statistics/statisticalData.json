@@ -1,0 +1,7 @@
+[
+  { "id": "id-1", "label": "Обводящий удар", "percentage": 88 },
+  { "id": "id-2", "label": "Удар влёт", "percentage": 65 },
+  { "id": "id-3", "label": "Пенальти", "percentage": 72 },
+  { "id": "id-4", "label": "Передачи", "percentage": 90 },
+  { "id": "id-5", "label": "Сейвы", "percentage": 2 }
+]
